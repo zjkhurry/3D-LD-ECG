@@ -27,7 +27,7 @@ This app has tested on
 * Xiaomi Mix 2s, MIUI 12.5.1(Android 10)
 
 ### 6. Instructions for running
-* After the app installed on an Android device, open up the bluetooth service of the device, and power on eSkin system. Then use the botton at top right to connect the Bluetooth device.
+* After the app installed on an Android device, open up the bluetooth service of the device, and power on ECG system. Then use the botton at top right to connect the Bluetooth device.
 * The chart view shows the real-time ECG signal, and will start right after device connected.
 
 
