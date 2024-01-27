@@ -1,0 +1,63 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Zhang
+  given-names: Binbin 
+- family-names: Li
+  given-names: Jiyu 
+- family-names: Zhou
+  given-names: Jingkun 
+- family-names: Chow
+  given-names: Lung 
+- family-names: Zhao
+  given-names: Guangyao
+- family-names: Huang
+  given-names: Ya
+- family-names: Ma
+  given-names: Zhiqiang
+- family-names: Zhang
+  given-names: Qiang
+- family-names: Yang
+  given-names: Yawen
+- family-names: Yiu
+  given-names: Chunki
+- family-names: Li
+  given-names: Jian
+- family-names: Chun
+  given-names: Fengjun
+- family-names: Huang
+  given-names: Xingcan
+- family-names: Gao
+  given-names: Yuyu
+- family-names: Wu
+  given-names: Pengcheng
+- family-names: Jia
+  given-names: Shengxin
+- family-names: Li
+  given-names: Hu
+- family-names: Li
+  given-names: Dengfeng
+- family-names: Liu
+  given-names: Yiming
+- family-names: Yao
+  given-names: Kuanming
+- family-names: Shi
+  given-names: Rui 
+- family-names: Chen
+  given-names: Zhenlin 
+- family-names: Khoo
+  given-names: Bee Luan 
+- family-names: Yang
+  given-names: Weiqing 
+- family-names: Wang
+  given-names: Feng 
+- family-names: Zheng
+  given-names: Zijian 
+- family-names: Wang
+  given-names: Zuankai 
+- family-names: Yu
+  given-names: Xinge     
+orcid: https://orcid.org/0000-0000-0000-0000
+title: A three-dimensional liquid diode for soft integrated permeable electronics
+version: v0.1
+date-released: 2024-01-27
