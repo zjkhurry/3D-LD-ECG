@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vise.xiaoyaoyou:viselog:1.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a663afc63e78bd5f9336a4418a72f33/jetified-viselog-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a663afc63e78bd5f9336a4418a72f33/jetified-viselog-1.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a663afc63e78bd5f9336a4418a72f33/jetified-viselog-1.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../ES_hand_AR/.gradle/caches/transforms-2/files-2.1/8a663afc63e78bd5f9336a4418a72f33/jetified-viselog-1.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../ES_hand_AR/.gradle/caches/transforms-2/files-2.1/8a663afc63e78bd5f9336a4418a72f33/jetified-viselog-1.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../ES_hand_AR/.gradle/caches/modules-2/files-2.1/com.vise.xiaoyaoyou/viselog/1.1.2/73140fd5cbc5408465af8c7d6c56634b6dfcb6f7/viselog-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ES_hand_AR/.gradle/caches/modules-2/files-2.1/com.vise.xiaoyaoyou/viselog/1.1.2/6507d9a87796b81285688fa092c1f5c2727593ef/viselog-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
